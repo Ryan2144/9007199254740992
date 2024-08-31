@@ -24,7 +24,7 @@ h1.title {
   display: block;
   /*float: left;*/
   color: #ffffff; }
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 520px) {
       h1.title {
         width: 550px;
 		height: 64px; } }
@@ -198,15 +198,18 @@ hr {
       line-height: 60px;
       margin-top: 222px; }
     .game-container .game-message .lower {
+      margin-top: 59px;
       display: block;}
-    
-	.game-container .game-message a {
-      display: inline-block;
-	  width: 500px;
-	  height: 137px;
-      background: rgba(255, 255, 255, 0.0)  url('../img/try-again.gif');
-      margin-top: 363px;
-      color: #f9f6f2; }
+.game-container .game-message a {
+    display: inline-table;
+    background: #57407C url('img/try-again.gif');
+    border-radius: 10px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #f9f6f2;
+    height: 40px;
+    line-height: 42px;
+    margin-left: 9px; }
     .game-container .game-message a.keep-playing-button {
         display: none; }
     .game-container .game-message.game-won {
@@ -227,7 +230,7 @@ hr {
 		-moz-animation-fill-mode: both;
 		animation-fill-mode: both; }
       .game-container .game-message.game-won a.keep-playing-button {
-        display: block; }
+        display: inline-block; }
     .game-container .game-message.game-won, .game-container .game-message.game-over {
       display: block;}
 
