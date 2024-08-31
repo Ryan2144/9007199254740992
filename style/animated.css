@@ -1953,8 +1953,12 @@ hr {
 	background-color: #d3386a;
 	color: rgba(255, 255, 255, 1); }
 
-.game-explanation {
-  margin-top: 50px; }
+.game-explanation span {
+  display: block;
+  float:right;
+  margin-top: 18px;
+  font-size: 22px;
+  line-height: 32px; }
 
 @media screen and (max-width: 520px) {
   html, body {
