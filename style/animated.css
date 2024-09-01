@@ -649,7 +649,7 @@ hr {
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% 0%; 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -660,7 +660,7 @@ hr {
   .tile.tile-4096 .tile-inner {
     color: #f9f6f2;
     background: #d1c916;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -100%; 
     box-shadow: 0 0 30px 10px rgba(209, 201, 22, 0.66667), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -671,7 +671,7 @@ hr {
   .tile.tile-8192 .tile-inner {
     color: #f9f6f2;
     background: #9ddb31;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -200%; 
     box-shadow: 0 0 30px 10px rgba(157, 219, 49, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -682,7 +682,7 @@ hr {
   .tile.tile-16384 .tile-inner {
     color: #f9f6f2;
     background: #77db1c;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -300%; 
     box-shadow: 0 0 30px 10px rgba(157, 219, 49, 0.77778), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -693,7 +693,7 @@ hr {
   .tile.tile-32768 .tile-inner {
     color: #f9f6f2;
     background: #00ff00;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -400%; 
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -704,7 +704,7 @@ hr {
   .tile.tile-65536 .tile-inner {
     color: #f9f6f2;
     background: #00ff7f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -500%;
     box-shadow: 0 0 30px 10px rgba(0, 255, 127, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -715,7 +715,7 @@ hr {
   .tile.tile-131072 .tile-inner {
     color: #f9f6f2;
     background: #007fff;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -600%; 
     box-shadow: 0 0 30px 10px #007fff, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -726,7 +726,7 @@ hr {
   .tile.tile-262144 .tile-inner {
     color: #f9f6f2;
     background: #1f5f7f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -700%; 
     box-shadow: 0 0 30px 10px #1f5f7f, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -737,7 +737,7 @@ hr {
   .tile.tile-524288 .tile-inner {
     color: #f9f6f2;
     background: #3f3f3f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -800%; 
     box-shadow: 0 0 30px 10px #3f3f3f, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -748,7 +748,7 @@ hr {
   .tile.tile-1048576 .tile-inner {
     color: #f9f6f2;
     background: #5c5c5c;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -900%; 
     box-shadow: 0 0 30px 10px #5c5c5c, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -759,7 +759,7 @@ hr {
   .tile.tile-2097152 .tile-inner {
     color: #f9f6f2;
     background: #bf9f7f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1000%; 
     box-shadow: 0 0 30px 10px #bf9f7f, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -770,7 +770,7 @@ hr {
   .tile.tile-4194304 .tile-inner {
     color: #f9f6f2;
     background: #bfbf7f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1100%; 
     box-shadow: 0 0 30px 10px #bfbf7f, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -781,7 +781,7 @@ hr {
   .tile.tile-8388608 .tile-inner {
     color: #f9f6f2;
     background: #bfbfbf;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1200%; 
     box-shadow: 0 0 30px 10px #bfbfbf, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -792,7 +792,7 @@ hr {
   .tile.tile-16777216 .tile-inner {
     color: #f9f6f2;
     background: #9797bf;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1300%; 
     box-shadow: 0 0 30px 10px #9797bf, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -803,7 +803,7 @@ hr {
   .tile.tile-33554432 .tile-inner {
     color: #f9f6f2;
     background: #7f7fbf;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1400%; 
     box-shadow: 0 0 30px 10px #7f7fbf, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -814,7 +814,7 @@ hr {
   .tile.tile-67108864 .tile-inner {
     color: #f9f6f2;
     background: #00007f;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1500%; 
     box-shadow: 0 0 30px 10px #00007f, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -825,7 +825,7 @@ hr {
   .tile.tile-134217728 .tile-inner {
     color: #f9f6f2;
     background: #0000bf;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1600%; 
     box-shadow: 0 0 30px 10px #0000bf, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -836,7 +836,7 @@ hr {
   .tile.tile-268435456 .tile-inner {
     color: #f9f6f2;
     background: #0000e6;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1700%; 
     box-shadow: 0 0 30px 10px #0000e6, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -847,7 +847,7 @@ hr {
   .tile.tile-536870912 .tile-inner {
     color: #f9f6f2;
     background: #cc00cc;
-    background-image: url('//alexfink.github.io/dive/tileoverlays/sprite.png'); 
+    background-image: url('../img/sprite.png'); 
     background-size: 200% auto;
     background-position: 0% -1800%; 
     box-shadow: 0 0 30px 10px #cc00cc, inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
