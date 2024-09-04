@@ -19,6 +19,11 @@ function auto_move(){
 		//move up if can't move down
 		if(!GM.moved){
 			GM.move( 0 );
+			GM.move( 1 );
+			GM.move( 2 );
+		if(!GM.moved){
+			GM.move( 1 );
+		}
 		}
 	}
 	setTimeout( "auto_move()", auto_move_time );
