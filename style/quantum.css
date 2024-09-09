@@ -592,7 +592,7 @@ hr {
     font-size: 30px; }
     @media screen and (max-width: 480px) {
       .tile.tile-16384 .tile-inner {
-        font-size: 10px; } }
+        font-size: 12px; } }
   .tile.tile-32768 .tile-inner {
     color: #f9f6f2;
     background: #00ff00;
@@ -600,7 +600,7 @@ hr {
     font-size: 30px; }
     @media screen and (max-width: 480px) {
       .tile.tile-32768 .tile-inner {
-        font-size: 10px; } }
+        font-size: 12px; } }
   .tile.tile-65536 .tile-inner {
     color: #f9f6f2;
     background: #00ff7f;
@@ -608,7 +608,7 @@ hr {
     font-size: 30px; }
     @media screen and (max-width: 480px) {
       .tile.tile-65536 .tile-inner {
-        font-size: 10px; } }
+        font-size: 12px; } }
   .tile.tile-131072 .tile-inner {
     color: #f9f6f2;
     background: #007fff;
@@ -616,7 +616,7 @@ hr {
     font-size: 25px; }
     @media screen and (max-width: 480px) {
       .tile.tile-131072 .tile-inner {
-        font-size: 8px; } }
+        font-size: 10px; } }
   .tile.tile-262144 .tile-inner {
     color: #f9f6f2;
     background: #1f5f7f;
@@ -624,7 +624,7 @@ hr {
     font-size: 25px; }
     @media screen and (max-width: 480px) {
       .tile.tile-262144 .tile-inner {
-        font-size: 8px; } }
+        font-size: 10px; } }
   .tile.tile-524288 .tile-inner {
     color: #f9f6f2;
     background: #3f3f3f;
@@ -632,7 +632,7 @@ hr {
     font-size: 25px; }
     @media screen and (max-width: 480px) {
       .tile.tile-524288 .tile-inner {
-        font-size: 8px; } }
+        font-size: 10px; } }
   .tile.tile-1048576 .tile-inner {
     color: #f9f6f2;
     background: #7f7f7f;
@@ -640,7 +640,7 @@ hr {
     font-size: 22px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1048576 .tile-inner {
-        font-size: 5px; } }
+        font-size: 8px; } }
   .tile.tile-2097152 .tile-inner {
     color: #f9f6f2;
     background: #bf9f7f;
@@ -648,7 +648,7 @@ hr {
     font-size: 22px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2097152 .tile-inner {
-        font-size: 5px; } }
+        font-size: 8px; } }
   .tile.tile-4194304 .tile-inner {
     color: #776e65;
     background: #ffdfbf;
@@ -656,7 +656,7 @@ hr {
     font-size: 22px; }
     @media screen and (max-width: 480px) {
       .tile.tile-4194304 .tile-inner {
-        font-size: 5px; } }
+        font-size: 8px; } }
   .tile.tile-8388608 .tile-inner {
     color: #776e65;
     background: #ffffdf;
@@ -664,7 +664,7 @@ hr {
     font-size: 22px; }
     @media screen and (max-width: 480px) {
       .tile.tile-8388608 .tile-inner {
-        font-size: 5px; } }
+        font-size: 8px; } }
   .tile.tile-16777216 .tile-inner {
     color: #776e65;
     background: #ffffff;
@@ -672,7 +672,7 @@ hr {
     font-size: 20px; }
     @media screen and (max-width: 480px) {
       .tile.tile-16777216 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-33554432 .tile-inner {
     color: #f9f6f2;
     background: #7f7fbf;
@@ -680,7 +680,7 @@ hr {
     font-size: 20px; }
     @media screen and (max-width: 480px) {
       .tile.tile-33554432 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-67108864 .tile-inner {
     color: #f9f6f2;
     background: #00007f;
@@ -688,7 +688,7 @@ hr {
     font-size: 20px; }
     @media screen and (max-width: 480px) {
       .tile.tile-67108864 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-134217728 .tile-inner {
     color: #f9f6f2;
     background: #003f7f;
@@ -696,7 +696,7 @@ hr {
     font-size: 17px; }
     @media screen and (max-width: 480px) {
       .tile.tile-134217728 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-268435456 .tile-inner {
     color: #f9f6f2;
     background: #007f7f;
@@ -704,7 +704,7 @@ hr {
     font-size: 17px; }
     @media screen and (max-width: 480px) {
       .tile.tile-268435456 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-536870912 .tile-inner {
     color: #f9f6f2;
     background: #3f3f7f;
@@ -712,7 +712,7 @@ hr {
     font-size: 17px; }
     @media screen and (max-width: 480px) {
       .tile.tile-536870912 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-1073741824 .tile-inner {
     color: #f9f6f2;
     background: #7f007f;
@@ -720,7 +720,7 @@ hr {
     font-size: 16px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1073741824 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-2147483648 .tile-inner {
     color: #f9f6f2;
     background: #7f3fff;
@@ -728,7 +728,7 @@ hr {
     font-size: 16px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2147483648 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-4294967296 .tile-inner {
     color: #776e65;
     background: #ff7f3f;
@@ -736,7 +736,7 @@ hr {
     font-size: 16px; }
     @media screen and (max-width: 480px) {
       .tile.tile-4294967296 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-8589934592 .tile-inner {
     color: #776e65;
     background: #3fff7f;
@@ -744,7 +744,7 @@ hr {
     font-size: 16px; }
     @media screen and (max-width: 480px) {
       .tile.tile-8589934592 .tile-inner {
-        font-size: 5px; } }
+        font-size: 7px; } }
   .tile.tile-17179869184 .tile-inner {
     color: #776e65;
     background: #7fff3f;
@@ -752,7 +752,7 @@ hr {
     font-size: 15px; }
     @media screen and (max-width: 480px) {
       .tile.tile-17179869184 .tile-inner {
-        font-size: 4px; } }
+        font-size: 7px; } }
   .tile.tile-34359738368 .tile-inner {
     color: #776e65;
     background: #8fff4f;
@@ -760,7 +760,7 @@ hr {
     font-size: 15px; }
     @media screen and (max-width: 480px) {
       .tile.tile-34359738368 .tile-inner {
-        font-size: 4px; } }
+        font-size: 7px; } }
   .tile.tile-68719476736 .tile-inner {
     color: #776e65;
     background: #9fff6f;
@@ -768,7 +768,7 @@ hr {
     font-size: 15px; }
     @media screen and (max-width: 480px) {
       .tile.tile-68719476736 .tile-inner {
-        font-size: 4px; } }
+        font-size: 7px; } }
   .tile.tile-137438953472 .tile-inner {
     color: #776e65;
     background: #afff6f;
@@ -776,7 +776,7 @@ hr {
     font-size: 14px; }
     @media screen and (max-width: 480px) {
       .tile.tile-137438953472 .tile-inner {
-        font-size: 3px; } }
+        font-size: 7px; } }
   .tile.tile-274877906944 .tile-inner {
     color: #776e65;
     background: #afff3f;
@@ -784,7 +784,7 @@ hr {
     font-size: 14px; }
     @media screen and (max-width: 480px) {
       .tile.tile-274877906944 .tile-inner {
-        font-size: 3px; } }
+        font-size: 7px; } }
   .tile.tile-549755813888 .tile-inner {
     color: #776e65;
     background: #afff00;
@@ -792,7 +792,7 @@ hr {
     font-size: 14px; }
     @media screen and (max-width: 480px) {
       .tile.tile-549755813888 .tile-inner {
-        font-size: 3px; } }
+        font-size: 7px; } }
   .tile.tile-1099511627776 .tile-inner {
     color: #776e65;
     background: #edc44f;
@@ -800,7 +800,7 @@ hr {
     font-size: 13px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1099511627776 .tile-inner {
-        font-size: 3px; } }
+        font-size: 6px; } }
   .tile.tile-2199023255552 .tile-inner {
     color: #776e65;
     background: #edc77f;
@@ -808,7 +808,7 @@ hr {
     font-size: 13px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2199023255552 .tile-inner {
-        font-size: 3px; } }
+        font-size: 6px; } }
   .tile.tile-4398046511104 .tile-inner {
     color: #776e65;
     background: #edcaaf;
@@ -816,7 +816,7 @@ hr {
     font-size: 13px; }
     @media screen and (max-width: 480px) {
       .tile.tile-4398046511104 .tile-inner {
-        font-size: 3px; } }
+        font-size: 6px; } }
   .tile.tile-8796093022208 .tile-inner {
     color: #776e65;
     background: #edceef;
@@ -824,7 +824,7 @@ hr {
     font-size: 13px; }
     @media screen and (max-width: 480px) {
       .tile.tile-8796093022208 .tile-inner {
-        font-size: 3px; } }
+        font-size: 6px; } }
   .tile.tile-17592186044416 .tile-inner {
     color: #f9f6f2;
     background: #edc1a6;
@@ -832,7 +832,7 @@ hr {
     font-size: 12px; }
     @media screen and (max-width: 480px) {
       .tile.tile-17592186044416 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-35184372088832 .tile-inner {
     color: #f9f6f2;
     background: #f2a599;
@@ -840,7 +840,7 @@ hr {
     font-size: 12px; }
     @media screen and (max-width: 480px) {
       .tile.tile-35184372088832 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-70368744177664 .tile-inner {
     color: #f9f6f2;
     background: #ffa6a9;
@@ -848,7 +848,7 @@ hr {
     font-size: 12px; }
     @media screen and (max-width: 480px) {
       .tile.tile-70368744177664 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-140737488355328 .tile-inner {
     color: #f9f6f2;
     background: #ebb914;
@@ -856,7 +856,7 @@ hr {
     font-size: 11px; }
     @media screen and (max-width: 480px) {
       .tile.tile-140737488355328 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-281474976710656 .tile-inner {
     color: #f9f6f2;
     background: #d3a612;
@@ -864,7 +864,7 @@ hr {
     font-size: 11px; }
     @media screen and (max-width: 480px) {
       .tile.tile-281474976710656 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-562949953421312 .tile-inner {
     color: #f9f6f2;
     background: #bc9410;
@@ -872,7 +872,7 @@ hr {
     font-size: 11px; }
     @media screen and (max-width: 480px) {
       .tile.tile-562949953421312 .tile-inner {
-        font-size: 2px; } }
+        font-size: 5px; } }
   .tile.tile-1125899906842624 .tile-inner {
     color: #f9f6f2;
     background: #96760d;
@@ -880,7 +880,7 @@ hr {
     font-size: 10px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1125899906842624 .tile-inner {
-        font-size: 1px; } }
+        font-size: 5px; } }
   .tile.tile-2251799813685248 .tile-inner {
     color: #f9f6f2;
     background: #71590a;
@@ -888,7 +888,7 @@ hr {
     font-size: 10px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2251799813685248 .tile-inner {
-        font-size: 1px; } }
+        font-size: 5px; } }
   .tile.tile-2251799813685248 .tile-inner {
     color: #f9f6f2;
     background: #71590a;
@@ -896,7 +896,7 @@ hr {
     font-size: 10px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2251799813685248 .tile-inner {
-        font-size: 1px; } }
+        font-size: 5px; } }
   .tile.tile-4503599627370496 .tile-inner {
     color: #f9f6f2;
     background: #4b3b06;
@@ -904,7 +904,7 @@ hr {
     font-size: 10px; }
     @media screen and (max-width: 480px) {
       .tile.tile-4503599627370496 .tile-inner {
-        font-size: 1px; } }
+        font-size: 5px; } }
   .tile.tile-9007199254740992 .tile-inner {
     color: #f9f6f2;
     background: #382c05;
@@ -912,7 +912,7 @@ hr {
     font-size: 10px; }
     @media screen and (max-width: 480px) {
       .tile.tile-9007199254740992 .tile-inner {
-        font-size: 1px; } }
+        font-size: 5px; } }
   .tile.tile-18014398509481984 .tile-inner {
     color: #f9f6f2;
     background: #261e03;
@@ -920,7 +920,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-18014398509481984 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-36028797018963970 .tile-inner {
     color: #f9f6f2;
     background: #000000;
@@ -928,7 +928,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-36028797018963970 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-72057594037927940 .tile-inner {
     color: #f9f6f2;
     background: #2f2d2b;
@@ -936,7 +936,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-72057594037927940 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-144115188075855870 .tile-inner {
     color: #f9f6f2;
     background: #423d2b;
@@ -944,7 +944,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-144115188075855870 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-288230376151711740 .tile-inner {
     color: #f9f6f2;
     background: #ae6f3a;
@@ -952,7 +952,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-288230376151711740 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-576460752303423500 .tile-inner {
     color: #f9f6f2;
     background: #b95b2c;
@@ -960,7 +960,7 @@ hr {
     font-size: 9px; }
     @media screen and (max-width: 480px) {
       .tile.tile-576460752303423500 .tile-inner {
-        font-size: 1px; } }
+        font-size: 4px; } }
   .tile.tile-1152921504606847000 .tile-inner {
     color: #f9f6f2;
     background: #c34a2f;
@@ -968,7 +968,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1152921504606847000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 3px; } }
   .tile.tile-2305843009213694000 .tile-inner {
     color: #f9f6f2;
     background: #cc3513;
@@ -976,7 +976,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-2305843009213694000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 3px; } }
   .tile.tile-4611686018427388000 .tile-inner {
     color: #f9f6f2;
     background: #a1862c;
@@ -984,7 +984,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-4611686018427388000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 3px; } }
   .tile.tile-9223372036854776000 .tile-inner {
     color: #f9f6f2;
     background: #f65e3b;
@@ -992,7 +992,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-9223372036854776000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 3px; } }
   .tile.tile-18446744073709552000 .tile-inner {
     color: #f9f6f2;
     background: #c7a42d;
@@ -1000,7 +1000,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-18446744073709552000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 2px; } }
   .tile.tile-36893488147419103000 .tile-inner {
     color: #f9f6f2;
     background: #dab32d;
@@ -1008,7 +1008,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-36893488147419103000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 2px; } }
   .tile.tile-73786976294838210000 .tile-inner {
     color: #f9f6f2;
     background: #edc53f;
@@ -1016,7 +1016,7 @@ hr {
     font-size: 8px; }
     @media screen and (max-width: 480px) {
       .tile.tile-73786976294838210000 .tile-inner {
-        font-size: 1px; } }
+        font-size: 2px; } }
   .tile.tile-147573952589676410000 .tile-inner {
     color: #f9f6f2;
     background: #edc850;
