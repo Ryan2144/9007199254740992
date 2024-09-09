@@ -320,7 +320,7 @@ GameManager.prototype.move = function (direction) {
           from1.updatePosition(acell);
           from2.updatePosition(acell);
           //完了
-          if(merged.value.indexOf(2048)>=0){
+          if(merged.value.indexOf(9007199254740992)>=0){
             self.won=true;
           }
         }else{
