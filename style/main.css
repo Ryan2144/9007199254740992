@@ -504,6 +504,97 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 55px; }
+  .tile.tile-1over2 .tile-inner {
+    background: #f5f5f5;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    font-size: 45px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over2 .tile-inner {
+        font-size: 25px; } }
+  .tile.tile-1over4 .tile-inner {
+    background: #f8f8f8;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.05), inset 0 0 0 1px rgba(255, 255, 255, 0.03);
+    font-size: 40px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over4 .tile-inner {
+        font-size: 20px; } }
+  .tile.tile-1over8 .tile-inner {
+    background: #fafafa;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+    font-size: 35px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over8 .tile-inner {
+        font-size: 15px; } }
+  .tile.tile-1over16 .tile-inner {
+    background: #fcfcfc;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.15), inset 0 0 0 1px rgba(255, 255, 255, 0.09);
+    font-size: 30px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over16 .tile-inner {
+        font-size: 12px; } }
+  .tile.tile-1over32 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.2), inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+    font-size: 25px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over32 .tile-inner {
+        font-size: 10px; } }
+  .tile.tile-1over64 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.25), inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+    font-size: 21px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over64 .tile-inner {
+        font-size: 8px; } }
+  .tile.tile-1over128 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.18);
+    font-size: 18px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over128 .tile-inner {
+        font-size: 7px; } }
+  .tile.tile-1over256 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.35), inset 0 0 0 1px rgba(255, 255, 255, 0.21);
+    font-size: 16px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over256 .tile-inner {
+        font-size: 7px; } }
+  .tile.tile-1over512 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.24);
+    font-size: 15px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over512 .tile-inner {
+        font-size: 7px; } }
+  .tile.tile-1over1024 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.45), inset 0 0 0 1px rgba(255, 255, 255, 0.27);
+    font-size: 14px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over1024 .tile-inner {
+        font-size: 6px; } }
+  .tile.tile-1over2048 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.5), inset 0 0 0 1px rgba(255, 255, 255, 0.3);
+    font-size: 13px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over2048 .tile-inner {
+        font-size: 5px; } }
+  .tile.tile-1over4096 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.55), inset 0 0 0 1px rgba(255, 255, 255, 0.33);
+    font-size: 12px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over4096 .tile-inner {
+        font-size: 5px; } }
+  .tile.tile-1over8192 .tile-inner {
+    background: #ffffff;
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.6), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 11px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-1over8192 .tile-inner {
+        font-size: 5px; } }
   .tile.tile-1 .tile-inner {
     background: #eeeeee;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
