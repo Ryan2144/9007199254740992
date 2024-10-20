@@ -16,13 +16,25 @@ function auto_move(){
 	//move right if can't move down
 	if(!GM.moved){
 		GM.move( 1 );
-		//move up if can't move down
+		//move up irf can't move down
 		if(!GM.moved){
 			GM.move( 0 );
 			GM.move( 1 );
 			GM.move( 2 );
+			GM.move( 1 );
+			GM.move( 2 );
+			GM.move( 0 );
 		if(!GM.moved){
 			GM.move( 1 );
+			GM.move( 2 );
+			GM.move( 0 );
+			GM.move( 2 );
+			GM.move( 1 );
+			GM.move( 0 );
+		if(!GM.moved){
+			GM.move( 1 );
+            GM.move( 2 );
+		}
 		}
 		}
 	}
